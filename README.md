@@ -1,3 +1,5 @@
+### Jobify MERN Stack Project
+
 This project is from a MERN Stack Udemy course.
 The styling was given, the logic behind it was coded by myself or with the tutorial.
 
